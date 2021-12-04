@@ -20,14 +20,14 @@ function App() {
                     headerTitleAlign: "center"
                 }} />
                 <Stack.Screen name="CategoryDetail" component={CategoryDetail} options={{
-                    title: "Kategoriler",
+                    title: "Haberler",
                     headerStyle: { backgroundColor: "#b0bec5" },
                     headerTitleStyle: { color: "white" },
                     headerTintColor: "white",
                     headerTitleAlign: "center"
                 }} />
                 <Stack.Screen name="NewsDetail" component={NewsDetail} options={{
-                    title: "Kategoriler",
+                    title: "Haber Detay",
                     headerStyle: { backgroundColor: "#b0bec5" },
                     headerTitleStyle: { color: "white" },
                     headerTintColor: "white",

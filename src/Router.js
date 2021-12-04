@@ -27,7 +27,7 @@ function App() {
                     headerTitleAlign: "center"
                 }} />
                 <Stack.Screen name="NewsDetail" component={NewsDetail} options={{
-                    title: "Haber Detay",
+                    title: "HaberDetay",
                     headerStyle: { backgroundColor: "#b0bec5" },
                     headerTitleStyle: { color: "white" },
                     headerTintColor: "white",
